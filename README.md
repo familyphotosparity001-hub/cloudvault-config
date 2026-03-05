@@ -1,0 +1,2 @@
+# cloudvault-config
+Drive configuration
